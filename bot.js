@@ -16,9 +16,7 @@ const client = new TelegramClient(new StringSession(sessionString), apiId, apiHa
 const channelUsernames = [
     "@cognizant_exam_accenture_groups",
     "@infosys_cognizant_accenture_exam",
-    "@accnture16AugustonCampus",
-    "@notifyknowledge",
-    "@sktechnovationchat",
+    "@accnture16AugustonCampus"
 ]; // Replace with actual channel usernames
 
 
