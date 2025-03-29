@@ -19,7 +19,6 @@ const channelUsernames = [
     "@accnture16AugustonCampus",
     "@notifyknowledge",
     "@sktechnovationchat",
-    ""
 ]; // Replace with actual channel usernames
 
 
